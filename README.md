@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Ismaelnelro/Trebol/blob/develop/client/public/assets/brand/logo.png?raw=true"/>
+<img src="https://github.com/Ismaelnelro/PigemoWalletRepoPublico/blob/main/public/assets/brand/logoPigmeoL.svg"/>
 </p>
 <h1 align="center" style="font-size: 100px;">PigemoWallet</h1>
 
