@@ -1,0 +1,13 @@
+[
+    {
+        "firstname": "Pablo",
+        "lastname": "Gomez",
+        "avatar": "/assets/icons/userProfile/profileImage.svg",
+        "email":"pedrogomez@gmail.com",
+        "birthdate":"24/09/1990",
+        "dni":"346989222",
+        "address": "Av. Cabildo 2121",
+        "phone":"346667899",
+        "CBU":"325465722"
+    }
+]

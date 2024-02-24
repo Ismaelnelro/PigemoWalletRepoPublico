@@ -1,0 +1,66 @@
+[
+    {
+        "imagen": "/assets/actividades/amazondeb.svg",
+        "nombre": "Amazon Prime",
+        "fechaActividad": "22.02.2024",
+        "hora": "10:30",
+        "monto": "12000",
+        "tipoTransaccion": "debito"
+    },
+    {
+        "imagen": "/assets/actividades/farmacitydeb.svg",
+        "nombre": "Amazon Prime",
+        "fechaActividad": "23.02.2024",
+        "hora": "12:45",
+        "monto": "8500",
+        "tipoTransaccion": "debito"
+    },
+    {
+        "imagen": "/assets/actividades/carrefuldeb.svg",
+        "nombre": "Amazon Prime",
+        "fechaActividad": "24.02.2024",
+        "hora": "14:15",
+        "monto": "9500",
+        "tipoTransaccion": "debito"
+    },
+    {
+        "imagen": "/assets/actividades/send.svg",
+        "nombre": "Amazon Prime",
+        "fechaActividad": "25.02.2024",
+        "hora": "16:00",
+        "monto": "11000",
+        "tipoTransaccion": "envio"
+    },
+    {
+        "imagen": "/assets/actividades/transfer.svg",
+        "nombre": "Amazon Prime",
+        "fechaActividad": "26.02.2024",
+        "hora": "18:20",
+        "monto": "13000",
+        "tipoTransaccion": "transferencia"
+    },
+    {
+        "imagen": "/assets/actividades/fredodeb.svg",
+        "nombre": "Amazon Prime",
+        "fechaActividad": "27.02.2024",
+        "hora": "20:10",
+        "monto": "7000",
+        "tipoTransaccion": "debito"
+    },
+    {
+        "imagen": "/assets/actividades/jumbodeb.svg",
+        "nombre": "Amazon Prime",
+        "fechaActividad": "28.02.2024",
+        "hora": "22:30",
+        "monto": "8200",
+        "tipoTransaccion": "debito"
+    },
+    {
+        "imagen": "/assets/actividades/discodeb.svg",
+        "nombre": "Amazon Prime",
+        "fechaActividad": "01.03.2024",
+        "hora": "08:00",
+        "monto": "9200",
+        "tipoTransaccion": "debito"
+    }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "amount": 100,
+    "sender": {
+      "firstName": "John",
+      "lastname": "Doe"
+    },
+    "receiver": {
+      "firstName": "Alice",
+      "lastname": "Smith"
+    },
+    "reference": "TXN001",
+    "transaction_type": "deposit",
+    "status": "completed",
+    "createdAt": "2024-02-15T08:00:00Z",
+    "updatedAt": "2024-02-15T08:01:00Z",
+    "id": 1
+  },
+  {
+    "amount": 50,
+    "sender": {
+      "firstName": "Alice",
+      "lastname": "Smith"
+    },
+    "receiver": {
+      "firstName": "Bob",
+      "lastname": "Johnson"
+    },
+    "reference": "TXN002",
+    "transaction_type": "debit",
+    "status": "pending",
+    "createdAt": "2024-02-14T10:00:00Z",
+    "updatedAt": "2024-02-14T10:01:00Z",
+    "id": 2
+  },
+  {
+    "amount": 200,
+    "sender": {
+      "firstName": "Bob",
+      "lastname": "Johnson"
+    },
+    "receiver": {
+      "firstName": "Charlie",
+      "lastname": "Brown"
+    },
+    "reference": "TXN003",
+    "transaction_type": "credit",
+    "status": "completed",
+    "createdAt": "2024-02-13T15:00:00Z",
+    "updatedAt": "2024-02-13T15:01:00Z",
+    "id": 3
+  },
+  {
+    "amount": 100,
+    "sender": {
+      "firstName": "John",
+      "lastname": "Doe"
+    },
+    "receiver": {
+      "firstName": "Alice",
+      "lastname": "Smith"
+    },
+    "reference": "TXN001",
+    "transaction_type": "deposit",
+    "status": "completed",
+    "createdAt": "2024-02-15T08:00:00Z",
+    "updatedAt": "2024-02-15T08:01:00Z",
+    "id": 4
+  },
+  {
+    "amount": 50,
+    "sender": {
+      "firstName": "Alice",
+      "lastname": "Smith"
+    },
+    "receiver": {
+      "firstName": "Bob",
+      "lastname": "Johnson"
+    },
+    "reference": "TXN002",
+    "transaction_type": "debit",
+    "status": "pending",
+    "createdAt": "2024-02-14T10:00:00Z",
+    "updatedAt": "2024-02-14T10:01:00Z",
+    "id": 5
+  },
+  {
+    "amount": 200,
+    "sender": {
+      "firstName": "Bob",
+      "lastname": "Johnson"
+    },
+    "receiver": {
+      "firstName": "Charlie",
+      "lastname": "Brown"
+    },
+    "reference": "TXN003",
+    "transaction_type": "credit",
+    "status": "completed",
+    "createdAt": "2024-02-13T15:00:00Z",
+    "updatedAt": "2024-02-13T15:01:00Z",
+    "id": 6
+  }
+]

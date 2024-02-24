@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "company": "Cinemark",
+        "image1": "/assets/benefit/descuentos/cinemark.svg",
+        "image2": "/assets/benefit/descuentos/pochoclos.svg",
+        "description": "2X1",
+        "condiciones": "Todo los dias"
+    },
+    {
+        "id": "2",
+        "company": "Nike",
+        "image1": "/assets/benefit/descuentos/nike.svg",
+        "image2": "/assets/benefit/descuentos/trainner.svg",
+        "description": "10%",
+        "condiciones": "Todo los lunes"
+    },
+    {
+        "id": "3",
+        "company": "Havanna",
+        "image1": "/assets/benefit/descuentos/havanna.svg",
+        "image2": "/assets/benefit/descuentos/alfajor.svg",
+        "description": "20%",
+        "condiciones": "Con tarjeta X"
+    }
+]

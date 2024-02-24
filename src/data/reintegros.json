@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "company": "Claro",
+        "image1": "/assets/benefit/reintegros/claro.svg",
+        "image2": "/assets/benefit/reintegros/subeMujerNaranja.svg",
+        "description": "10%",
+        "condiciones": "Con tarjeta X"
+    },
+    {
+        "id": "2",
+        "company": "Personal",
+        "image1": "/assets/benefit/reintegros/personal.svg",
+        "image2": "/assets/benefit/reintegros/subeMujerAzul.svg",
+        "description": "5%",
+        "condiciones": "Con tarjeta X"
+    },
+    {
+        "id": "3",
+        "company": "Movistar",
+        "image1": "/assets/benefit/reintegros/movistar.png",
+        "image2": "/assets/benefit/reintegros/subeMujerNaranja.svg",
+        "description": "15%",
+        "condiciones": "Con tarjeta X"
+    },
+    {
+        "id": "4",
+        "company": "SUBE",
+        "image1": "/assets/benefit/reintegros/sube.svg",
+        "image2": "/assets/benefit/reintegros/subeMujerAzul.svg",
+        "description": "8%",
+        "condiciones": "Con tarjeta X"
+    }
+]
